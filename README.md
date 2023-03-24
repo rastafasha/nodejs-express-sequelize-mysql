@@ -1,1 +1,1 @@
-# backend-MEAN-Sequelize-Mysql
+# nodejs-express-sequelize-mysql
