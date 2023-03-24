@@ -1,5 +1,5 @@
 {
-    "name": "nodejs-express-sequelize-mysql",
+    "name": "backend-MEAN-Sequelize-Mysql",
     "version": "1.0.0",
     "description": "Node.js Rest Apis with Express, Sequelize & MySQL",
     "main": "server.js",
@@ -14,7 +14,7 @@
         "sequelize",
         "mysql"
     ],
-    "author": "bezkoder",
+    "author": "Malcolm",
     "license": "ISC",
     "dependencies": {
         "bcryptjs": "^2.4.3",
